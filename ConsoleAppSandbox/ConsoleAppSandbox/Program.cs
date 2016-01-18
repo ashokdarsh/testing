@@ -10,6 +10,7 @@ namespace ConsoleAppSandbox
     {
         static void Main(string[] args)
         {
+            //This is just a comment
         }
     }
 }
