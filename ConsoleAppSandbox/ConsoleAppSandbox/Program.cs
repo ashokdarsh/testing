@@ -10,6 +10,7 @@ namespace ConsoleAppSandbox
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
         }
     }
 }
