@@ -11,6 +11,9 @@ namespace ConsoleAppSandbox
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            var printMe = "Hi there";
+            Console.WriteLine(printMe);
+
         }
     }
 }
